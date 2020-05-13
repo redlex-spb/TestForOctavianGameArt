@@ -1,0 +1,13 @@
+{
+	"appWidth": 800,
+	"appHeight": 600,
+	"backgroundColor": "0xcccccc",
+	"buttonOffImage": "button-off.png",
+	"buttonOnImage": "button-on.png",
+	"linesOffsetLeft": 50,
+	"linesOffsetTop": 20,
+	"linesCountHorizontal": 5,
+	"linesCountVertical": 3,
+	"symbolWidth": 140,
+	"symbolOffset": 10
+}
